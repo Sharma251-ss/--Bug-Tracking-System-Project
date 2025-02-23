@@ -27,7 +27,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/yourusername/bug-tracking-system.git
+git clone https://github.com/sharma251-ss/bug-tracking-system.git
 cd bug-tracking-system
 Install dependencies:
 
